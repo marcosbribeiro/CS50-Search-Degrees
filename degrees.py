@@ -1,12 +1,3 @@
-###############################
-
-#Builder: Marcos Ribeiro
-#GIT Hub user: marcosbribeiro
-
-# 05/14/20
-
-###############################
-
 import csv
 import sys
 
